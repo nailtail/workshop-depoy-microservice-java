@@ -1,4 +1,4 @@
-[My User](https://hub.docker.com/u/nailtail)
+[My User for GoogleCloudPlatform](https://hub.docker.com/u/nailtail)
 
 [![Build Status](https://travis-ci.com/up1/workshop-depoy-microservice-java.svg?branch=master)](https://travis-ci.com/up1/workshop-depoy-microservice-java)
 
